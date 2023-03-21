@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: global.citytech
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, log4j2, maven, netty-server, openapi, postgres, readme, shade, swagger-ui, test-resources, yaml]

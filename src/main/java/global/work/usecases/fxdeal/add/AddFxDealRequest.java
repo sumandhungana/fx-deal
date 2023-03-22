@@ -1,4 +1,4 @@
-package global.citytech.usecases.fxdeal.add;
+package global.work.usecases.fxdeal.add;
 /*
     @author suman dhungana
 */

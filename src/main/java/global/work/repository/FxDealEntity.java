@@ -1,4 +1,4 @@
-package global.citytech.repository;
+package global.work.repository;
 /*
     @author suman dhungana
 */

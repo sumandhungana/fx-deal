@@ -1,9 +1,9 @@
-package global.citytech.controller;
+package global.work.controller;
 
-import global.citytech.converter.FxDealConverter;
-import global.citytech.usecases.fxdeal.add.AddFxDealRequest;
-import global.citytech.usecases.fxdeal.add.AddFxDealResponse;
-import global.citytech.usecases.fxdeal.add.AddFxDealUseCase;
+import global.work.converter.FxDealConverter;
+import global.work.usecases.fxdeal.add.AddFxDealRequest;
+import global.work.usecases.fxdeal.add.AddFxDealResponse;
+import global.work.usecases.fxdeal.add.AddFxDealUseCase;
 import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.*;
 import jakarta.inject.Inject;

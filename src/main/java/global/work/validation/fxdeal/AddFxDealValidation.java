@@ -1,14 +1,12 @@
-package global.citytech.validation.fxdeal;
+package global.work.validation.fxdeal;
 /*
     @author suman dhungana
 */
 
-import global.citytech.exception.FxDealException;
-import global.citytech.usecases.fxdeal.add.AddFxDealRequest;
-import global.citytech.utils.HelperUtils;
+import global.work.exception.FxDealException;
+import global.work.usecases.fxdeal.add.AddFxDealRequest;
+import global.work.utils.HelperUtils;
 import jakarta.inject.Inject;
-
-import java.awt.*;
 
 public class AddFxDealValidation {
 

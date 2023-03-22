@@ -1,10 +1,9 @@
-package global.citytech.repository;
+package global.work.repository;
 
 import io.micronaut.data.jdbc.annotation.JdbcRepository;
 import io.micronaut.data.jdbc.runtime.JdbcOperations;
 import io.micronaut.data.model.query.builder.sql.Dialect;
 import io.micronaut.data.repository.CrudRepository;
-import jakarta.inject.Inject;
 
 /*
     @author suman dhungana

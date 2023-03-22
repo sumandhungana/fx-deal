@@ -1,4 +1,4 @@
-package global.citytech;
+package global.work;
 
 import io.micronaut.runtime.Micronaut;
 

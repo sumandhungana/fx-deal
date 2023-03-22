@@ -1,11 +1,11 @@
-package global.citytech.converter;
+package global.work.converter;
 /*
     @author suman dhungana
 */
 
-import global.citytech.controller.FxDealRequestPayload;
-import global.citytech.repository.FxDealEntity;
-import global.citytech.usecases.fxdeal.add.AddFxDealRequest;
+import global.work.controller.FxDealRequestPayload;
+import global.work.repository.FxDealEntity;
+import global.work.usecases.fxdeal.add.AddFxDealRequest;
 import jakarta.inject.Singleton;
 
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package global.citytech.exception;
+package global.work.exception;
 /*
     @author suman dhungana
 */

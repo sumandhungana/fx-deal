@@ -1,13 +1,13 @@
-package global.citytech.usecases.fxdeal.add;
+package global.work.usecases.fxdeal.add;
 /*
     @author suman dhungana
 */
 
-import global.citytech.converter.FxDealConverter;
-import global.citytech.exception.FxDealException;
-import global.citytech.repository.FxDealEntity;
-import global.citytech.repository.FxDealRepository;
-import global.citytech.validation.fxdeal.AddFxDealValidation;
+import global.work.converter.FxDealConverter;
+import global.work.exception.FxDealException;
+import global.work.repository.FxDealEntity;
+import global.work.repository.FxDealRepository;
+import global.work.validation.fxdeal.AddFxDealValidation;
 import jakarta.inject.Inject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

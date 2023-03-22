@@ -20,7 +20,7 @@
     <micronaut.version>3.8.5</micronaut.version>
     <micronaut.runtime>netty</micronaut.runtime>
     <micronaut.test.resources.enabled>true</micronaut.test.resources.enabled>
-    <exec.mainClass>global.citytech.Application</exec.mainClass>
+    <exec.mainClass>global.work.Application</exec.mainClass>
   </properties>
 
   <repositories>
@@ -152,7 +152,7 @@
             </path>
           </annotationProcessorPaths>
           <compilerArgs>
-            <arg>-Amicronaut.processing.group=global.citytech</arg>
+            <arg>-Amicronaut.processing.group=global.work</arg>
             <arg>-Amicronaut.processing.module=crud-operation</arg>
           </compilerArgs>
         </configuration>
